@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codetosucess
 - 👀 I’m interested in becoming a full time web developer
-- 🌱 I’m currently learning javascript through the Odin Project
+- 🌱 I’m currently learning JavaScript through the Odin Project
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: message me on here
 
